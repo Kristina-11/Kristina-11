@@ -1,7 +1,11 @@
 # Welcome :wave:
 ## Fullstack Web Developer
 
-![](https://img.shields.io/badge/HTML5%26CSS3-brightgreen)
+### Frontend
+![](https://img.shields.io/badge/HTML5%26CSS3-brightgreen) ![](https://img.shields.io/badge/-JavaScript-green) ![](https://img.shields.io/badge/-React.js-lightgrey)
+
+### Backend
+![](https://img.shields.io/badge/-.NET%20Core-orange)
 
 ### Visit me on:
 [<img align="center" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
