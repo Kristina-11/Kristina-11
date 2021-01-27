@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Welcome to my GitHub profile! :books:
 
 <!--
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kristina-11)](https://github.com/anuraghazra/github-readme-stats)
+
