@@ -14,6 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kristina-11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### This week I've been working on:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kristina&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--  -->
+
+<!-- ### This week I've been working on:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kristina&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
