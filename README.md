@@ -7,8 +7,13 @@
 ### Backend
 ![](https://img.shields.io/badge/-.NET%20Core-blueviolet) ![](https://img.shields.io/badge/-Firebase-orange)
 
+## Check out my resume:
+[<img align="center" alt="codeSTACKr | Resume" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresume-evolution.com%2Fwp-content%2Fuploads%2F2016%2F04%2FResume-Icon.png&f=1&nofb=1" />][resume]
+
+[resume]:https://kristina-11.github.io/Resume/
+
 ### Visit me on:
-[<img align="center" alt="codeSTACKr | LinkedIn" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.S0dfs_VLPjXaoEKV7EjfTAAAAA%26pid%3DApi&f=1" />][linkedin]
+[<img align="center" alt="codeSTACKr | LinkedIn" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinkedin-icon-logo-png-transparent.png&f=1&nofb=1" />][linkedin]
 
 [linkedin]:https://www.linkedin.com/in/kristina91jovanovic11/
 
