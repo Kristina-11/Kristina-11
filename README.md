@@ -17,4 +17,4 @@
 
 [linkedin]:https://www.linkedin.com/in/kristina91jovanovic11/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kristina-11&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kristina-11&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
