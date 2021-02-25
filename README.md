@@ -7,6 +7,9 @@
 ### Backend
 ![](https://img.shields.io/badge/-.NET%20Core-blueviolet) ![](https://img.shields.io/badge/-Firebase-orange)
 
+### Currently working on: 
+<img align="center" alt="codeSTACKr | Working" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1005/1005141.svg?token=exp=1614272138~hmac=1b6615efc4397033c38d53acd257dc58" /> <b>Node.js</b>
+
 ## Check out my resume:
 [<img align="center" alt="codeSTACKr | Resume" width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresume-evolution.com%2Fwp-content%2Fuploads%2F2016%2F04%2FResume-Icon.png&f=1&nofb=1" />][resume]
 
