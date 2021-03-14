@@ -2,7 +2,7 @@
 ## Fullstack Web Developer 
 
 ### Frontend
-![](https://img.shields.io/badge/HTML5%26CSS3-brightgreen) ![](https://img.shields.io/badge/-JavaScript-green) ![](https://img.shields.io/badge/-React.js-blueviolet)
+![](https://img.shields.io/badge/HTML5%26CSS3-brightgreen) ![](https://img.shields.io/badge/-JavaScript-green) ![](https://img.shields.io/badge/-React.js-9cf)
 
 ### Backend
 ![](https://img.shields.io/badge/-.NET%20Core-blueviolet) ![](https://img.shields.io/badge/-Firebase-orange)
