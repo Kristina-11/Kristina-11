@@ -22,5 +22,5 @@
 [<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresume-evolution.com%2Fwp-content%2Fuploads%2F2016%2F04%2FResume-Icon.png&f=1&nofb=1" />][resume]
 
 #
-### Joke of a day 😃
+### Random joke 😃
 ![Jokes Card](https://readme-jokes.vercel.app/api)
