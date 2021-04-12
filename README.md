@@ -12,7 +12,10 @@
 <hr />
 
 ### Currently working on: 
-<img align="center" alt="codeSTACKr | Working" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1005/1005141.svg?token=exp=1616425709~hmac=6b66fba4c20855320da78621d7f9905d" /> <b>Node.js</b>
+<ul>
+ <li>Node.js</li>
+ <li>TypeScript</li>
+</ul>
 
 [linkedin]:https://www.linkedin.com/in/kristina91jovanovic11/
 [resume]:https://kristina-11.github.io/Resume/
