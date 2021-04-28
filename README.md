@@ -2,10 +2,10 @@
 ## Fullstack Web Developer 
 
 ### Frontend
-![](https://img.shields.io/badge/HTML5%26CSS3-blue) ![](https://img.shields.io/badge/-JavaScript-green) ![](https://img.shields.io/badge/-React.js-9cf)
+![](https://img.shields.io/badge/HTML5-blue) ![](https://img.shields.io/badge/CSS-SCSS-ff69b4) ![](https://img.shields.io/badge/TypeScript-JavaScript-success) ![](https://img.shields.io/badge/Redux-React-blueviolet)
 
 ### Backend
- ![](https://img.shields.io/badge/-Node.js-success) ![](https://img.shields.io/badge/-.NET%20Core-blueviolet) ![](https://img.shields.io/badge/-Firebase-orange)
+ ![](https://img.shields.io/badge/Node.js-Express-success) ![](https://img.shields.io/badge/C%23-.NET%20Core-blueviolet) ![](https://img.shields.io/badge/Firebase-Firestore-orange) ![](https://img.shields.io/badge/MongoDB-Mongoose-green)
 <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kristina-11&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
