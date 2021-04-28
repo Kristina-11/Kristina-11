@@ -13,7 +13,6 @@
 
 ### Currently working on: 
 <ul>
- <li>Node.js</li>
  <li>TypeScript</li>
 </ul>
 
@@ -24,6 +23,6 @@
 [<img align="center" alt="LinkedIn" width="40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />][linkedin]
 [<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresume-evolution.com%2Fwp-content%2Fuploads%2F2016%2F04%2FResume-Icon.png&f=1&nofb=1" />][resume]
 
-#
+
 ### Random joke 😃
 ![Jokes Card](https://readme-jokes.vercel.app/api)
