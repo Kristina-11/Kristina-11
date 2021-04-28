@@ -19,7 +19,7 @@
 [linkedin]:https://www.linkedin.com/in/kristina91jovanovic11/
 [resume]:https://kristina-11.github.io/Resume/
 
-### Visit me on LinkedIn or check out my portfolio 
+### Visit me on LinkedIn or check out my resume
 [<img align="center" alt="LinkedIn" width="40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />][linkedin]
 [<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresume-evolution.com%2Fwp-content%2Fuploads%2F2016%2F04%2FResume-Icon.png&f=1&nofb=1" />][resume]
 
