@@ -21,7 +21,7 @@
 
 ### Visit me on LinkedIn or check out my resume
 [<img align="center" alt="LinkedIn" width="40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />][linkedin]
-[<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fresume-evolution.com%2Fwp-content%2Fuploads%2F2016%2F04%2FResume-Icon.png&f=1&nofb=1" />][resume]
+[<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.m_j_t_Mz9UluoxuM8fDz-gHaHa%26pid%3DApi&f=1" />][resume]
 
 
 ### Random joke 😃
