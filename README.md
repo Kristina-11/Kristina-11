@@ -11,11 +11,6 @@
 
 <hr />
 
-### Currently working on: 
-<ul>
- <li>TypeScript</li>
-</ul>
-
 [linkedin]:https://www.linkedin.com/in/kristina91jovanovic11/
 [resume]:https://kristina-11.github.io/Resume/
 
