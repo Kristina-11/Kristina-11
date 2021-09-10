@@ -12,11 +12,11 @@
 <hr />
 
 [linkedin]:https://www.linkedin.com/in/kristina91jovanovic11/
-[resume]:https://kristina-11.github.io/Resume/
+<!-- [[resume]:https://kristina-11.github.io/Resume/](url) -->
 
 ### Visit me on LinkedIn or check out my resume
 [<img align="center" alt="LinkedIn" width="40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />][linkedin]
-[<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.m_j_t_Mz9UluoxuM8fDz-gHaHa%26pid%3DApi&f=1" />][resume]
+<!-- [<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.m_j_t_Mz9UluoxuM8fDz-gHaHa%26pid%3DApi&f=1" />][resume] -->
 
 
 ### Random joke 😃
