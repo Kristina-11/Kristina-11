@@ -1,5 +1,5 @@
 # Welcome :wave:
-## Fullstack Web Developer 
+## Web Developer 
 
 ### Frontend
 ![](https://img.shields.io/badge/HTML5-blue) ![](https://img.shields.io/badge/CSS-SCSS-ff69b4) ![](https://img.shields.io/badge/TypeScript-JavaScript-success) ![](https://img.shields.io/badge/Redux-React-blueviolet)
@@ -14,7 +14,7 @@
 [linkedin]:https://www.linkedin.com/in/kristina91jovanovic11/
 <!-- [[resume]:https://kristina-11.github.io/Resume/](url) -->
 
-### Visit me on LinkedIn or check out my resume
+### Visit me on LinkedIn
 [<img align="center" alt="LinkedIn" width="40px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />][linkedin]
 <!-- [<img align="center" alt="codeSTACKr | Resume" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.m_j_t_Mz9UluoxuM8fDz-gHaHa%26pid%3DApi&f=1" />][resume] -->
 
